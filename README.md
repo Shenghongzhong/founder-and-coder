@@ -2,7 +2,7 @@
 
 ## Overview
 
-The aim of the repository is to organise all required projects at Founder&Coder. However, the entire repository will contains all projects folders. Each project folders consists of code and relevant assets. 
+The aim of the repository is to organise all required projects for the application at Founder&Coder. However, the entire repository will contains all projects folders. Each project folders consists of code and relevant assets. This document contains vision and associated projects. 
 
 ## Vision
 
@@ -21,3 +21,17 @@ I went to their in-person info event last night and I realised my failure of lea
 Most importantly, I read an article from productivity guru. A single creative project that changes your life should be and will be always coming from free-will rather than external obligations. 
 
 So learning web dev thing is more like to be creative as they are focuing on front-end development. How can I use my creativity to solve problems? How can I create my own technology?
+
+## Projects
+
+### Project 1 : Hobby Page
+
+The difficult part of this project isn't technical but rather design perspective. My strategy is to analyse requirements first before I do any other things, although I have some basic HTML and CSS skills. I'm always stuck in the design part.
+
+I guess many people will just rush to finish but my motivation of doing the application isn't FINISH. Because it's quite interesting and some requirements make me intrigued. For example, 
+
+> *The page is visually interesting, for example with borders or colours*
+
+What does it even mean? Visually interesting can be anything. I cooked cauliflower chickpeas potatoes curry for my girfriend and she said it could've been better with a bit more salt but to me the level of saltness was about right. Persoanlly, I don't understand how colour works. 
+
+I just realised that there are so many design elements you need to think about. Shape, font, line, layout. In combination
