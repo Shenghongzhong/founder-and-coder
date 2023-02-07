@@ -35,3 +35,17 @@ I guess many people will just rush to finish but my motivation of doing the appl
 What does it even mean? Visually interesting can be anything. I cooked cauliflower chickpeas potatoes curry for my girfriend and she said it could've been better with a bit more salt but to me the level of saltness was about right. Persoanlly, I don't understand how colour works. 
 
 I just realised that there are so many design elements you need to think about. Shape, font, line, layout. In combination
+
+- 31 Jan 2023
+
+I went to the in-person coding meetup and the mentor said it's up to me.
+
+- 7 Feb 2023 >> CSS Box Model
+
+I made a basic html layout, and yet I was stuck into next steps. The mentor told me to start to inspect the browser. He pointed out that my image was broken. He refreshed the knowledge about css selector and recommended me to read CSS box model. He used a metaphor of putting stuff into different boxes when printing a magzine. That is, layout and design. 
+
+In CSS, box model is a tool for layout and design. The model contains 3 elements: margins, borders, padding and the actual content. In other word, it's a box to wrap around every HTML element.
+
+- Margin: think about the space between each html tag
+- Padding: think about the distance between the border of html tag and the actual content 
+- Border: think about the line of wrapping around the actual content
